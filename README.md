@@ -1,2 +1,3 @@
 # burisoft
-OnePage Freelance Start Bootstrap
+Testovací OnePage Freelance Start Bootstrap
+Odvozeno od https://github.com/BlackrockDigital/startbootstrap-freelancer/
