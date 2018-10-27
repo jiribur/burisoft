@@ -28,7 +28,6 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-   /* text-transform: uppercase; */
     font-family: 'Montserrat', sans-serif;
     letter-spacing:1.5px;
 }
@@ -58,7 +57,6 @@ a:hover, a:focus, a:active  {
     border-radius: 0;
     font-family: Roboto;
     font-size: 15px;
-   /* text-transform: uppercase; */
    
 }
 
@@ -119,7 +117,6 @@ NAVIGATION
     font-weight: 400;
 	font-size: 18px;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
 }
 
 
