@@ -58,7 +58,7 @@ a:hover, a:focus, a:active  {
     border-radius: 0;
     font-family: Roboto;
     font-size: 15px;
-    text-transform: uppercase;
+   /* text-transform: uppercase; */
    
 }
 
@@ -108,7 +108,7 @@ NAVIGATION
 }
 
 .navbar-brand {
-    text-transform: uppercase;
+     /* text-transform: uppercase; */
     font-family: 'Montserrat', sans-serif;
 	font-size: 25px;
     letter-spacing: 1px;
